@@ -105,7 +105,7 @@
     var TARGET_YEAR = 2026;
     var TARGET_MONTH = 8;       // 1 = January, 8 = August
     var TARGET_DAY = 22;
-    var TARGET_HOUR = 9;        // 0-23
+    var TARGET_HOUR = 0;        // 0-23
     var TARGET_MINUTE = 0;      // 0-59
 
     var VISIBILITY_MS = 24 * 60 * 60 * 1000;
