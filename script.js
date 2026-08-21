@@ -246,7 +246,7 @@
             padNumber(days) + "d " +
             padNumber(hours) + "h " +
             padNumber(minutes) + "m " +
-            padNumber(seconds) + "s | Shanvika";
+            padNumber(seconds) + "s";
     }
 }
 
